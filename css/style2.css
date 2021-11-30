@@ -181,6 +181,10 @@ footer small br{
   display: flex;
 }
 
+#info main ul li {
+  margin-bottom: 20px;
+}
+
 /* ------------------
   アクセス
 ------------------ */
